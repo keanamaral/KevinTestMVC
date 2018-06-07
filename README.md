@@ -3,3 +3,7 @@ testing back-end server-side code: Controller-->Model-->ORM-->mySQL Database/tab
 
 using database: tourfinder_db
 table : tourinfo
+
+run server.js in terminal command prompt
+
+have fun!
